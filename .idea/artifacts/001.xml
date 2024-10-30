@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="001">
+    <output-path>$PROJECT_DIR$/out/artifacts/001</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="002" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Login_SignupApp" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
